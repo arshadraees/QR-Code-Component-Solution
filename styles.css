@@ -48,6 +48,7 @@ p {
 }
 
 .attribution {
+  font-size: 10px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -58,10 +59,4 @@ p {
 .attribution a {
   color: hsl(218, 44%, 22%);
   text-decoration: none;
-}
-
-@media (max-width : 375px) {
-  .qr-grid{
-    margin: 40px;
-  }
 }
